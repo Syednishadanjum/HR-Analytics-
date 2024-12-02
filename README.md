@@ -1,1 +1,2 @@
 # HR-Analytics-
+HR Analytics, also known as People Analytics or Workforce Analytics, involves collecting and analyzing data related to human resources to improve workforce performance and inform decision-making. By leveraging HR data, organizations can gain insights into employee turnover, hiring processes, performance metrics, and more1. This data-driven approach helps HR professionals make informed decisions, optimize HR functions, and align HR strategies with organizational goals
